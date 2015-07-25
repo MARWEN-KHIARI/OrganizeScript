@@ -1,4 +1,4 @@
-# Plugin-Unity-3d-2012 OrganizeScript v1.0
+# Plugin-Unity-2012 OrganizeScript v1.0
 Scripting/Tools - Editor
 
 <strong>
